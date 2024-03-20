@@ -1,0 +1,22 @@
+{
+  "name": "arcane-fire-analytics",
+  "version": "1.0.2",
+  "description": "A JavaScript library for integrating Google Analytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rzostek/arcane-fire-analytics"
+  },
+  "keywords": [
+    "analytics",
+    "google",
+    "tracking"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "google-analytics": "^0.1.5"
+  }
+}
